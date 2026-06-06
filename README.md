@@ -13,9 +13,9 @@ A console-based Library Management System built using Python.
 - Python
 
 ## Project Structure
-library-management-system/
-├── main.py
-└── README.md
+library-management-system
+    main.py
+    README.md
 
 ## How to Run
 1. Download the project
