@@ -22,4 +22,3 @@ library-management-system
 2. Open terminal
 3. Run:
 
-python main.py
