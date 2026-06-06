@@ -12,8 +12,12 @@ A console-based Library Management System built using Python.
 ## Technologies Used
 - Python
 
-## How to Run
+## Project Structure
+library-management-system/
+├── main.py
+└── README.md
 
+## How to Run
 1. Download the project
 2. Open terminal
 3. Run:
